@@ -1,0 +1,29 @@
+{
+  "name": "console-colorify",
+  "version": "1.0.0",
+  "description": "A library which colorfiy the console",
+  "main": "lib/index.js",
+  "types":"lib/index.d.ts" ,
+  "scripts": {
+    "build":"tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikanshu-98/console-colorify.git"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify console"
+  ],
+  "author": "vikanshu coders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikanshu-98/console-colorify/issues"
+  },
+  "homepage": "https://github.com/vikanshu-98/console-colorify#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "files": ["lib/**/*"]
+}
