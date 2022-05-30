@@ -1,5 +1,5 @@
 {
-  "name": "console-colorify",
+  "name": "console-log-colorify",
   "version": "1.0.0",
   "description": "A library which colorfiy the console",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "keywords": [
     "console log colors",
-    "colorify console"
+    "colorify console log"
   ],
   "author": "vikanshu coders",
   "license": "MIT",
